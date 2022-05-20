@@ -10,7 +10,7 @@ function App() {
         <iframe
           className="responsive-iframe"
           title="MHA"
-          src="https://myhome.rc.anewgo.com/client/demo"
+          src="https://myhome.development.anewgo.com/client/demo"
         />
       </div>
     </div>
